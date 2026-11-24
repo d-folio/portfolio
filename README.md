@@ -10,7 +10,7 @@ Achieved top results in public cybersecurity contests focused on Ethereum smart 
 | [Real Wagmi #2](https://audits.sherlock.xyz/contests/118) | 3rd 🥉 (out of 30+) | Placed third with a single unique finding. | https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues/15 |
 | [veRWA](https://code4rena.com/audits/2023-08-verwa) | 4th 🏆 (out of 134) | Second contest participation. Received recognition from contest judge for notable mathematical root-cause vulnerability report. | https://github.com/code-423n4/2023-08-verwa-findings/issues/386 |
 | [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | 7th 🏆 (out of 299) | Optimization report selected as best out of 36 submissions. | https://code4rena.com/reports/2024-02-ai-arena#gas-optimizations |
-| [Convergence.fi](https://github.com/sherlock-audit/2023-11-convergence-judging/issues/94) | 8th 🏆 (out of 25+) | Leveraged alpha to achieve high return to time ratio. Did not spend significant time in this contest. | https://github.com/sherlock-audit/2023-11-convergence-judging/issues/94 (main report from a different participant, with discussion) |
+| [Convergence.fi](https://audits.sherlock.xyz/contests/126) | 8th 🏆 (out of 25+) | Leveraged alpha to achieve high return to time ratio. Did not spend significant time in this contest. | https://github.com/sherlock-audit/2023-11-convergence-judging/issues/94 (main report from a different participant, with discussion) |
 
 ## Bug Bounties
 Due to bug bounty disclosure agreements, it may not be permissible to give exact details. All bugs listed were submitted and paid through Immunefi.
