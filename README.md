@@ -1,5 +1,5 @@
 # Researcher Summary (Handle: X.com/0xDetermination)
-Achieved top results in competitive public cybersecurity contests focused on Ethereum smart contract vulnerabilities. Selected by leading crypto cybersecurity firm [Sherlock.xyz](https://sherlock.xyz) as lead senior researcher for a contest and scored 1st place. Received payouts for multiple bug bounty vulnerability disclosures, including a critical severity exploit.
+Achieved top results in public cybersecurity contests focused on Ethereum smart contract vulnerabilities. Selected by leading crypto cybersecurity firm [Sherlock.xyz](https://sherlock.xyz) as lead senior researcher for a contest and scored 1st place. Received payouts for multiple bug bounty vulnerability disclosures, including a critical severity exploit.
 
 ## Contest Results
 | Contest | Placement | Notes | Selected Vulnerability Report |
